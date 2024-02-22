@@ -55,6 +55,7 @@
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=GitHub&logoColor=white)
 ![NPM](https://img.shields.io/badge/npm-CB3837?style=flat-square&logo=npm&logoColor=white)
 ![Composer](https://img.shields.io/badge/COMPOSER-4479A1?style=flat-square&logo=COMPOSER&logoColor=white)
+![Bootstrap](https://img.shields.io/badge/Bootstrap-5509ac?style=flat-square&logo=Bootstrap&logoColor=white)
 
 
 ### <picture> <img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/IDEs.gif?raw=true" width = 20px>  </picture> IDEs
