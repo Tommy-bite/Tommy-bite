@@ -9,7 +9,7 @@
 
 - 🌎 Vivo en Chile 🇨🇱😍.
   
-- 🧑‍🎓 Actualmente soy estudiante de la carrera Ingeniería en Informática del DuocC UC 🏫.
+- 🧑‍🎓 Actualmente soy estudiante de la carrera Ingeniería en Informática del Duoc UC 🏫.
 
 - 🌱 También estoy realizando un bootcamp de JavaScript en Desafío Latam.
 
