@@ -9,15 +9,15 @@
 
 - 🌎 Vivo en Chile 🇨🇱😍.
   
-- 🧑‍🎓 Actualmente soy estudiante de la carrera Ingeniería en Informática del Duoc UC 🏫.
+- 🧑‍🎓 Titulado de la carrera Ingeniería en Informática del Duoc UC 🏫.
 
-- 🌱 También estoy realizando un bootcamp de JavaScript en Desafío Latam.
+- 🌱 He realizado un bootcamp de JavaScript y Arquitectura en la nube en Talento Digital.
 
-- 😍 Sigo en constante aprendizaje pero manejo de manera básica HMTL, CSS, JavaScript.
+- 😍 Sigo en constante aprendizaje pero manejo  HMTL, CSS, JavaScript de base.
 
 - 🤝 Disponible para trabajar como freelancer.
   
-- 📫 Comunícate conmigo por **cri.jimenez24@gmail.com**.
+- 📫 Comunícate conmigo por **cri.jimenezcer@gmail.com**.
 <br><br>
 <p align="left">
 <a href="https://www.linkedin.com/in/cristian-jimenez-cerda-692598201/" target="blank"><img align="center" src="https://user-images.githubusercontent.com/88904952/234979284-68c11d7f-1acc-4f0c-ac78-044e1037d7b0.png" alt="linkedin" height="50" width="50" /></a>
